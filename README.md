@@ -1,40 +1,32 @@
 # 🏀 Basketball League Table Predictions
 
-**A futuristic platform for visualizing basketball league predictions, fixtures, and stats.  
-Data meets design — built for analysts, sports enthusiasts, and next-gen developers.**
+**Next‑Gen Data Visualizations & UI for League Analytics**
 
 ---
 
-## 🔭 Project Overview
+## 🚀 Overview
 
-This repository hosts modern data visualizations and league management UI for basketball competitions.  
-Driven by real stats and predictive logic, the platform offers:
+This repository showcases a forward-thinking approach to basketball league predictions.  
+Experience league rankings and fixtures brought to life—blending robust stats, live dashboards, and a modern Figma UI.
 
-- Interactive tables for both **Eastern** and **Western** Conferences.
-- Real-time fixtures, scores, and team stats.
-- Clean, scalable design inspired by top sports dashboards.
+- **Interactive Conference Tables:**  
+  Up-to-date standings for both Eastern and Western Conferences with all crucial stats.
 
-All assets and screens were crafted in Figma and exported for immediate use and customization.
+- **Live Scoreboard Dashboard:**  
+  Dynamic fixtures, real scores, and match previews in sleek, future-ready cards.
+
+- **Premier League-Style Landing:**  
+  NBA-inspired marketing/demo landing, tailor-made for brand or analytics initiatives.
 
 ---
 
-## 🚀 Key Features
+## 🌟 Features
 
-- **Dynamic Standings:**  
-  Live league tables with team records, win-loss streaks, and point differentials.
-
-- **Game Center & Fixtures:**  
-  Next matchups, live result indicators, direct links for previews & live streams.
-
-- **Conference Visualization:**  
-  Side-by-side tables for instant comparison between East & West.
-
-- **Responsive Dashboard:**  
-  Modern UI designed for large displays and mobile, featuring prominent logos, team stats,  
-  and color-coded streaks or outcomes.
-
-- **Clear Glossary:**  
-  Built-in explanations of every key statistic for transparency.
+- **Auto-Updating Standings:** Fresh after every game
+- **East/West Filters:** See conference splits instantly
+- **Advanced Game Cards:** Scores, previews, and live indicators for every fixture
+- **Readable, Responsive Tables:** Designed for analysts & casual fans on any device
+- **Self-Explaining:** On‑page glossary for stats and abbreviations
 
 ---
 
@@ -42,53 +34,61 @@ All assets and screens were crafted in Figma and exported for immediate use and 
 
 <div align="center">
 
-**Main League & Fixtures**
+**Game Fixtures, Scores & Footer**
 
-![Basketball Dashboard]([Basketball Dashboard.png])
+![Basketball Dashboard](Basketball%20Dashboard.png)
 
-**Conference Tables & Explanations**
+**Conferences & Glossary**
 
-![Conference Standings](3.jpg)
+![Conference Standings](Conference%20Standings.png)
 
-**NBA Welcome / Premier UI Demo**
+**NBA Futuristic Landing Page**
 
-![NBA Futuristic UI](2.jpg)
+![NBA Futuristic UI](NBA%20Futuristic%20UI.png)
 
 </div>
 
 ---
 
-## 🖥️ Tech & Design
+## 🛠 Tech & Design
 
-- **Designed in Figma** — lightning-fast prototyping, pixel-perfect export
-- **Optimized for extensibility** — add teams, stats, or new seasons easily
-- **Open for integration** — plug your own backend or use the layouts for static data
-
----
-
-## 👤 Author & Showcase
-
-- **Designed & Developed by:** [Pranay Kumar](https://github.com/mudigondapranay)
-  - [Behance Portfolio](https://www.behance.net/mudigondapranay)
-  - [LinkedIn](https://www.linkedin.com/in/mudigondapranay/)
-
-> _This work is also featured in my [Behance Project Showcase](https://www.behance.net/mudigondapranay)._  
-> For collaboration and commercial inquiries, reach out via GitHub or LinkedIn.
+- Prototyped in **Figma** for seamless designer‑developer workflow
+- Easily extendible—add more stats, teams, or new data sources
+- Ready to integrate into React, Python, or BI/dashboard tools
 
 ---
 
-## 🤝 Contributing
+## 👨‍💻 Author
 
-Contributions welcome!  
-Open an issue or PR for suggestions, data logic enhancements, or UI improvements.
-
----
-
-## ⚠️ License
-
-Proprietary & personal project — please contact before commercial use.  
-Designed and maintained by Pranay Kumar.
+[Pranay Kumar](https://github.com/mudigondapranay)  
+[Behance Portfolio](https://www.behance.net/pranaykumar23)  
+[LinkedIn](https://www.linkedin.com/in/mudigondapranay/)
 
 ---
 
-*Future of basketball analytics starts with clear, impactful data and immersive design.*
+## 🌐 Project Highlights
+
+- **Live & Historical Data Support:** Designed for both real-time data and analytics
+- **Strong Brand Focus:** Visuals emphasize leagues/teams for instant recognition
+- **Modern Dashboard Patterns:** Usable in production, proof-of-concept, or media kits
+- **Self-Guided Learning:** Stats glossary for users new to basketball analytics
+
+---
+
+## 🤝 Contributions
+
+All feedback and contributions are welcome!
+- Fork the repo
+- Open an issue for suggestions or bugs
+- Submit a PR for UI, stats, or structural improvements
+
+---
+
+## ⚡ License
+
+Personal innovation project.  
+Contact for commercial or extended use.
+
+---
+
+> _The future of sports analytics is clear, interactive, and beautifully designed._
