@@ -44,7 +44,7 @@ All assets and screens were crafted in Figma and exported for immediate use and 
 
 **Main League & Fixtures**
 
-![Basketball Dashboard](4.jpg)
+![Basketball Dashboard]([Basketball Dashboard.png])
 
 **Conference Tables & Explanations**
 
